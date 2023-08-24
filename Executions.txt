@@ -1,0 +1,6 @@
+Step-1:
+Open Apache Tomcat in command prompt 
+Step-2:
+Then open bin folder and type the command as :"./startup.sh" .Then the Tomcat gets started.
+Step-3:
+Open browser and start the local host "http://localhost:8080/project/main.html"
